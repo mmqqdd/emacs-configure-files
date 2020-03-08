@@ -1,0 +1,62 @@
+
+;; ----- smex-history -----
+(
+ kill-this-buffer
+ eshell
+ replace-string
+ rename-buffer
+ mkdir
+ eshell-mode
+ kill-all-buffer
+)
+
+;; ----- smex-data -----
+(
+ (load-file . 4)
+ (load-theme . 4)
+ (rename-file . 11)
+ (eshell . 57)
+ (int-file . 1)
+ (zxj . 15)
+ (customize-group . 3)
+ (delete-file . 6)
+ (counsel-git . 3)
+ (open-my-init-file . 1)
+ (exit-recursive-edit . 1)
+ (kill-this-buffer . 365)
+ (erase-buffer . 10)
+ (global-hl-line-mode . 1)
+ (undo . 1)
+ (replace-string . 19)
+ (nodejs-repl . 4)
+ (nodejs-repl-send-buffer . 14)
+ (electric-indent-mode . 4)
+ (auto-encryption-mode . 1)
+ (eshell-mode . 35)
+ (kill-buffer . 4)
+ (kill-all-buffer . 28)
+ (shell-script-mode . 3)
+ (org-indent-mode . 4)
+ (mkdir . 4)
+ (name-last-kbd-macro . 1)
+ (insert-kbd-macro . 2)
+ (test1 . 5)
+ (org-mode . 3)
+ (org-agenda . 3)
+ (browse-web . 1)
+ (backtrace . 1)
+ (recover-file . 12)
+ (org-insert-drawer . 1)
+ (org-columns . 1)
+ (org-columns-quit . 2)
+ (info . 1)
+ (diary-fancy-display-mode . 2)
+ (org-agenda-to-appt . 9)
+ (next-buffer . 7)
+ (org-info . 2)
+ (calendar . 1)
+ (make-directory . 1)
+ (eshell-source-file . 2)
+ (eshell-previous-input . 2)
+ (rename-buffer . 1)
+)

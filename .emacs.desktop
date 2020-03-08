@@ -1,0 +1,151 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sun Mar  8 22:15:55 2020
+;; Desktop file format version 208
+;; Emacs version 25.2.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (24164 65051 387261 755000) (desktop . "208") "mqd@mqd-GL553VD" nil nil ((((font-backend xft x) (font . "-DAMA-Ubuntu Mono-normal-normal-normal-*-20-*-*-*-m-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#F8F8F2") (background-color . "#272822") (mouse-color . "#F8F8F2") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha 75 45) (fullscreen . maximized) (display-type . color) (background-mode . dark) (cursor-color . "#F8F8F2") (sticky) (environment) (frameset--id . "A852-E86E-A88E-615E") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (visibility . t) (height . 47) (width . 190) (left . 0) (top . 27)) ((min-height . 4) (min-width . 20) (min-height-ignore . 3) (min-width-ignore . 10) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 84) (min-pixel-width . 200) (min-pixel-height-ignore . 63) (min-pixel-width-ignore . 100) (min-pixel-height-safe . 21) (min-pixel-width-safe . 40)) hc (pixel-width . 1920) (pixel-height . 980) (total-width . 192) (total-height . 46) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 960) (pixel-height . 980) (total-width . 96) (total-height . 46) (normal-height . 1.0) (normal-width . 0.5) (buffer "aa.in" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 1) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 24) (start . 1))) (leaf (last . t) (pixel-width . 960) (pixel-height . 980) (total-width . 96) (total-height . 46) (normal-height . 1.0) (normal-width . 0.5) (buffer "*eshell*" (selected) (hscroll . 0) (fringes 8 8 nil) (margins 1) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 15) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("\n\n\n" "retu" ";n"))
+(setq regexp-search-ring '("k" "18" "*" "install:" "init" "prefix" "par" "company" "popw" "agenda" "prefix"))
+(setq register-alist (list (list 313465889 "Unprintable entity" (let ((mk (make-marker))) (add-hook 'desktop-delay-hook `(lambda nil (set-marker ,mk ,nil (get-buffer ," *temp*")))) mk))))
+(setq file-name-history '("/home/mqd/‘Ëæ‘±Ê/planSet/plan.org" "/home/mqd/‘Ëæ‘±Ê/planSet/dailylog.org" "/home/mqd/code/C++/a1.cpp" "/home/mqd/code/C++/a45.cpp" "/home/mqd/code/C++/a44.cpp" "/home/mqd/code/C++/a18.cpp" "/home/mqd/code/C++/a2.cpp" "/home/mqd/code/C++/a17.cpp" "/home/mqd/code/C++/aa.in" "/home/mqd/code/C++/a16.cpp" "/home/mqd/‘Ëæ‘±Ê/timer.org" "/home/mqd/‘Ëæ‘±Ê/network.org" "/home/mqd/code/JAVA/‘Íø‘Âç‘±à‘³Ì/GreetingClient.java" "/home/mqd/code/JAVA/compitition/a1.java" "/home/mqd/code/C++/sort.cpp" "/home/mqd/code/JAVA/‘Íø‘Âç‘±à‘³Ì/eshell1" "/home/mqd/code/JAVA/‘Íø‘Âç‘±à‘³Ì/GreetingServer.java" "/home/mqd/code/JAVA/‘Íø‘Âç‘±à‘³Ì" "/home/mqd/‘Ëæ‘±Ê/English.org" "/home/mqd/code/JAVA/‘Ðò‘ÁÐ‘»¯/tmp/Employee.java" "/home/mqd/code/JAVA/‘Ðò‘ÁÐ‘»¯/Employee.java" "/home/mqd/code/JAVA/‘Ðò‘ÁÐ‘»¯/DeserializeDemo.java" "/home/mqd/code/JAVA/‘Ðò‘ÁÐ‘»¯/tmp/" "/home/mqd/code/JAVA/‘Ðò‘ÁÐ‘»¯/SerializeDemo.java" "/home/mqd/code/JAVA/‘Ðò‘ÁÐ‘»¯" "/home/mqd/code/JAVA/aa.in" "/home/mqd/code/Js/aa.in" "/home/mqd/code/Js/‘³¬‘ÐÇ‘¶û‘ÑÅ‘Íø‘¿Î.js" "/home/mqd/code/JAVA/a4.java" "/home/mqd/code/JAVA/a3.java" "/home/mqd/code/JAVA/#a3.java#" "/home/mqd/‘Ëæ‘±Ê/linux‘Ñ§‘Ï°‘±Ê‘¼Ç/linuxStudyNotes.org" "/home/mqd/.gitconfig" "/home/mqd/‘Ëæ‘±Ê/Git.org" "/home/mqd/‘Ëæ‘±Ê/java-‘Èë‘ÃÅ.org" "/home/mqd/‘Ëæ‘±Ê/planSet/termplan.org" "/home/mqd/code/JAVA/Zoo.java" "/home/mqd/code/JAVA/Rsbbit.java" "/home/mqd/code/JAVA/Lion.java" "/home/mqd/code/JAVA/Ant.java" "/home/mqd/code/JAVA/animal/Rabbit.java" "/home/mqd/code/JAVA/animal/Lion.java" "/home/mqd/code/JAVA/animal/Ant.java" "/home/mqd/code/JAVA/animals.java" "/home/mqd/code/JAVA/Rabbit.java" "/home/mqd/code/JAVA/Zoo.class" "/home/mqd/code/JAVA/Ant.class" "/home/mqd/code/JAVA/test.java" "/home/mqd/code/JAVA/luoguP1007.java" "/home/mqd/code/JAVA/FileStreamTest.java" "/home/mqd/‘Ëæ‘±Ê/planSet/2020‘¿Î‘³Ì‘±í.org" "/home/mqd/‘Ëæ‘±Ê/planSet/" "/home/mqd/‘Ëæ‘±Ê/org-mode‘±Ê‘¼Ç.org" "/home/mqd/.bashrc" "/usr/share/emacs/25.2/lisp/org/" "/home/mqd/‘Ëæ‘±Ê/org-mode‘±¸‘·Ý.org" "/home/mqd/‘Ëæ‘±Ê/" "/home/mqd/‘Ëæ‘±Ê/planSet/timetable.org" "/home/mqd/‘Ëæ‘±Ê/linux‘Ñ§‘Ï°‘ÐÄ‘µÃ/‘Ñ§‘Ï°‘ÐÄ‘µÃ1.md" "/home/mqd/‘Ëæ‘±Ê/.#org-mode‘±Ê‘¼Ç.org" "/home/mqd/‘Ëæ‘±Ê/2020‘¿Î‘³Ì‘±í.org" "/home/mqd/‘Ëæ‘±Ê/plan.org" "/home/mqd/‘Ëæ‘±Ê/#org-mode‘±Ê‘¼Ç.org#" "/home/mqd/.diary" "/home/mqd/.emacs.d/lisp/init-org.el" "/home/mqd/‘Ëæ‘±Ê/#plan.org#" "/home/mqd/code/JAVA/" "/home/mqd/code/JAVA/AbstractTest.java" "/" "/home/mqd/‘Ëæ‘±Ê/AbstractTest.java" "/home/mqd/code/JAVA/ExcepTest.java" "/home/mqd/code/JAVA/Filelei.java" "/home/mqd/code/JAVA/FilenameFilter.java" "/home/mqd/code/JAVA/FileStream.java" "/home/mqd/code/JAVA/luoguP1087.java" "/home/mqd/code/JAVA/luoguP1077.java" "/home/mqd/code/C++/luoguP1076.cpp" "/home/mqd/code/JAVA/luoguP1076.java" "/home/mqd/code/JAVA/luoguP1070.java" "/home/mqd/code/JAVA/luoguP1069.java" "/home/mqd/code/JAVA/luoguP1058.java" "/home/mqd/code/JAVA/luoguP1057.java" "/home/mqd/code/JAVA/p1057.java" "/home/mqd/code/Python/luoguP1043.py" "/home/mqd/code/C++/test.cpp" "/home/mqd/code/Python/luoguP1037.py" "/home/mqd/code/JAVA/luoguP1037.java" "/home/mqd/code/JAVA/luoguP1030.java" "/home/mqd/code/Python/luoguP1009.py" "/home/mqd/code/Python" "/home/mqd/code/Python/" "/home/mqd/code/JAVA/luoguP1009.java" "/home/mqd/code/JAVA/luoguP1000.java" "/home/mqd/code/JAVA/luoguP1002.java" "/home/mqd/code/JAVA/P1002.java" "/home/mqd/code/JAVA/luoguP1004.java" "/home/mqd/code/JAVA/people.txt" "/home/mqd/code/JAVA/TransientPeople.java" "/home/mqd/code/JAVA/TransientPeople"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/mqd/code/C++/aa.in"
+  "aa.in"
+  'fundamental-mode
+  '(company-mode hungry-delete-mode ivy-mode linum-mode global-auto-revert-mode)
+  24
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 24))))
+
+(desktop-create-buffer 208
+  "/home/mqd/code/C++/a45.cpp"
+  "a45.cpp"
+  'c++-mode
+  '(abbrev-mode company-mode smartparens-mode hungry-delete-mode ivy-mode linum-mode global-auto-revert-mode)
+  475
+  '(401 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (475 430 168 216 698 692 682 682 699 115 774 45 63 195 203 475))))
+
+(desktop-create-buffer 208
+  "/home/mqd/code/C++/a44.cpp"
+  "a44.cpp"
+  'c++-mode
+  '(abbrev-mode company-mode smartparens-mode hungry-delete-mode ivy-mode linum-mode global-auto-revert-mode)
+  663
+  '(278 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (583 629 629 629 725 313 145 583 583 692 725 629 629 583 579 663))))
+
+(desktop-create-buffer 208
+  "/home/mqd/code/C++/sort.cpp"
+  "sort.cpp"
+  'c++-mode
+  '(abbrev-mode company-mode smartparens-mode hungry-delete-mode ivy-mode linum-mode global-auto-revert-mode)
+  278
+  '(278 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (537 74 259 104 278 524 278 278 272 246 160 273 273 4 407 482))))
+
+(desktop-create-buffer 208
+  "/home/mqd/code/C++/a17.cpp"
+  "a17.cpp"
+  'c++-mode
+  '(abbrev-mode company-mode smartparens-mode hungry-delete-mode ivy-mode linum-mode global-auto-revert-mode)
+  325
+  '(1991 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1780 1640 2190 394 2190 1455 1796 1829 1829 1796 1796 1472 1458 1458 1458 325))))
+
+(desktop-create-buffer 208
+  "/home/mqd/code/C++/a18.cpp"
+  "a18.cpp"
+  'c++-mode
+  '(abbrev-mode company-mode smartparens-mode hungry-delete-mode ivy-mode linum-mode global-auto-revert-mode)
+  542
+  '(1307 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (846 1102 1307 493 1307 331 913 913 913 846 760 802 760 746 732 542))))
+
+(desktop-create-buffer 208
+  "/home/mqd/code/C++/a2.cpp"
+  "a2.cpp"
+  'c++-mode
+  '(abbrev-mode company-mode smartparens-mode hungry-delete-mode ivy-mode linum-mode global-auto-revert-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/mqd/code/C++/a16.cpp"
+  "a16.cpp"
+  'c++-mode
+  '(abbrev-mode company-mode smartparens-mode hungry-delete-mode ivy-mode linum-mode global-auto-revert-mode)
+  703
+  '(494 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (719 658 567 719 493 322 1562 1562 1758 342 220 455 455 460 446 703))))
+
+(desktop-create-buffer 208
+  "/home/mqd/‘Ëæ‘±Ê/planSet/2020‘¿Î‘³Ì‘±í.org"
+  "2020‘¿Î‘³Ì‘±í.org"
+  'org-mode
+  '(company-mode hungry-delete-mode ivy-mode linum-mode global-auto-revert-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/mqd/.emacs.d/diary"
+  "diary"
+  'diary-mode
+  '(company-mode hungry-delete-mode ivy-mode linum-mode global-auto-revert-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/mqd/‘Ëæ‘±Ê/planSet/termplan.org"
+  "termplan.org"
+  'org-mode
+  '(company-mode hungry-delete-mode ivy-mode linum-mode global-auto-revert-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
+  '((mark-ring nil)))
+
